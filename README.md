@@ -1,2 +1,2 @@
 # ImageProcessing
-For Learning
+learn Image Processing from zero to hero 
